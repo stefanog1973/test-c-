@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppGetJSON", "ConsoleAppGetJSON\ConsoleAppGetJSON.csproj", "{92B3050D-54BC-476F-B2F2-D5F422DC2202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92B3050D-54BC-476F-B2F2-D5F422DC2202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92B3050D-54BC-476F-B2F2-D5F422DC2202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92B3050D-54BC-476F-B2F2-D5F422DC2202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92B3050D-54BC-476F-B2F2-D5F422DC2202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A382312-2286-4F90-8B49-3F3EF86C6038}
+	EndGlobalSection
+EndGlobal
