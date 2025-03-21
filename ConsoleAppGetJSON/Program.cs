@@ -87,7 +87,7 @@ namespace cSharpFundamentalsGetJSON
 
             string text = getJSON.LeggiJSON(cartella, nomeFileTest);
 
-            string? miaStringa = JsonConvert.DeserializeObject<string>(text);
+            //string? miaStringa = JsonConvert.DeserializeObject<string>(text);
     
 
             //List<Item> items = JsonConvert.DeserializeObject<List<Item>>(text);
